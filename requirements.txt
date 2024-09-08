@@ -9,3 +9,4 @@ pymupdf
 pypdf
 faiss-cpu
 python-docx
+openpyxl

@@ -2,7 +2,6 @@ langchain
 langchain_community
 langchain_core
 langchain_huggingface
-langchain-text-splitter
 langchain_groq
 python-dotenv
 streamlit

@@ -82,7 +82,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 
-user_prompt = st.chat_input("Enter Your Papers")
+user_prompt = st.chat_input("Click on the top left button before chating.....")
 
 with st.sidebar:  # Alternatively, you can use st.container() for a specific area on the page
     if 'vectors' not in st.session_state:
